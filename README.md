@@ -1,3 +1,12 @@
+![Screenshot (34)](https://github.com/Lewaa200/Gaming-Hub-front-End-react/assets/145552018/a96d3e74-bb28-4424-9962-f0f43f05872d)
+![Screenshot (35)](https://github.com/Lewaa200/Gaming-Hub-front-End-react/assets/145552018/e397cb26-7758-4174-94a4-4a91a93424f1)
+![Screenshot (36)](https://github.com/Lewaa200/Gaming-Hub-front-End-react/assets/145552018/d18938f1-4994-410e-abb1-876b07b86202)
+![Screenshot (37)](https://github.com/Lewaa200/Gaming-Hub-front-End-react/assets/145552018/096a0d3b-1bf0-415a-9c1f-78bddcd3cb0b)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
