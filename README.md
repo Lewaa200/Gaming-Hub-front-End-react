@@ -1,4 +1,7 @@
-
+![Screenshot (34)](https://github.com/Lewaa200/Gaming-Hub-front-End-react/assets/145552018/f868e14a-de56-4e5c-94d6-ac481b72d52f)
+![Screenshot (35)](https://github.com/Lewaa200/Gaming-Hub-front-End-react/assets/145552018/90a98580-2912-4260-aa4c-cba4df620100)
+![Screenshot (36)](https://github.com/Lewaa200/Gaming-Hub-front-End-react/assets/145552018/22b7362c-08d2-4107-870b-2da3a391e740)
+![Screenshot (37)](https://github.com/Lewaa200/Gaming-Hub-front-End-react/assets/145552018/eb2c70aa-e3ed-4380-bcbb-cf5546f9b582)
 
 
 
